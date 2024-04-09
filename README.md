@@ -6,6 +6,9 @@ Designed a command-line application to manage a company's employee database usin
 ## Table of Contents
 
 ## Links
+https://drive.google.com/file/d/1osljS2tg6PUHQ8wLp4Q2D-IPt_igz7hs/view?usp=sharing
+
+https://icedcode24.github.io/employee-tracker-24/
 
 ## Installation
 Run "npm i" at root directory

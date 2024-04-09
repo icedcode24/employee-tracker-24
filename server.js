@@ -97,10 +97,10 @@ const viewAllRoles = () => {
 // VIEW ALL EMPLOYEES
 const viewAllEmployees = () =>
     db.query(
-        'SELECT * FROM employee', function (err, employess) {
+        'SELECT * FROM employee', function (err, employee) {
             if (err) return console.log(err);
             // DISPLAY QUERY OF EMPLOYEES
-            console.table(employees);
+            console.table(employee);
             // RESTART APP
             startApp();
         });
